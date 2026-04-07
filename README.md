@@ -101,6 +101,8 @@ Interests:
 <div align="center">
   
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:7c3aed&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
 
+| Productive Time                                                                                                   | Profile Details                                                                                               |
+|------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| ![Kanav's Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KanavChauhan23&theme=tokyonight&utcOffset=5.5) | ![Kanav's Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KanavChauhan23&theme=tokyonight) |

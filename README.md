@@ -1,3 +1,4 @@
+<img src="https://github.com/Kanav-Chauhan/Kanav-Chauhan/assets/100374335/d0c79b71-c233-4ec3-9059-59ff907aab3e" height="400" width="6000" alt="linkedin logo"  />
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;AI+%26+ML+Enthusiast;AI+Software+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
